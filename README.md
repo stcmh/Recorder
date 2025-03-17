@@ -1,3 +1,3 @@
 Simple Vedio Recorder with OpenCv.
 
-It can horizential filp Vedio anytime by press , or . key.
+It can flip-horizontal Vedio anytime by press , or . key.
